@@ -15,3 +15,4 @@ cp -r       : helps to Copy a floder
 rv          : Removes a file
 rv -r       : Removes a directory
 man         : get into details of the codes
+
