@@ -1,7 +1,7 @@
 pwd         : Shows the cureent Directory
 cd          : Lets you in
 cd..        : get down one Directory
-ctrl+D      : Exit
+ctrl+D      : Exit 
 ctrl+C      : Terminate
 fg          : Foreground Process
 bg          : Background Process
