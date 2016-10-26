@@ -26,4 +26,6 @@ date                    : display date
 time                    : Sisplay up time
 Cal                     : Display Calender
 tar cf file.tar files   : Creates a tar named file.tar
+info                    : read info of file
+
 
