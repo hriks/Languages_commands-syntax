@@ -1,6 +1,6 @@
 pwd                     : Shows the cureent Directory
 cd                      : Lets you in
-cd..                    : get down one Directory
+cd ..                    : get down one Directory
 ctrl+D                  : Exit 
 ctrl+C                  : Terminate
 fg                      : Foreground Process
@@ -28,4 +28,8 @@ Cal                     : Display Calender
 tar cf file.tar files   : Creates a tar named file.tar
 info                    : read info of file
 truncate                :make file size small
+~/cd                    :go to the parent directory
+git status              : Shows the status of the git directory
+git update              : update the git directory
+git clone               : clones the git directory in the current directory
 
