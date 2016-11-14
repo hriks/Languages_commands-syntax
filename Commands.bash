@@ -6,7 +6,7 @@ ctrl+C                  : Terminate
 fg                      : Foreground Process
 bg                      : Background Process
 free                    : Display Free Space
-git clone               : Lets you to Clone Git
+git clone               : Lets you to Clone Git 
 git Push                : Lets to Push you into Git
 touch                   : Helps to Make File
 mkdir                   : Make a new Folder
