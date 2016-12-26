@@ -11,3 +11,4 @@
   drop dishes;						           	delete the table
   UPDATE dishes SET price = 100 WHERE item = 'samosa';			replace the value 40 by 100 where item is 'samosa'
   select * from dishes;	 			           		Display the table dishes along with its contents
+
