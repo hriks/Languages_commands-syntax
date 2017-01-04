@@ -32,3 +32,4 @@ truncate                :make file size small
 git status              : Shows the status of the git directory
 git update              : update the git directory
 git clone               : clones the git directory in the current directory
+git config              : config you github account
