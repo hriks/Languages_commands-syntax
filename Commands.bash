@@ -33,3 +33,6 @@ git status              : Shows the status of the git directory
 git update              : update the git directory
 git clone               : clones the git directory in the current directory
 git config              : config you github account
+git reset --hard HEAD   : reset the commit's
+git clean -f            :Clean the changes
+git pull origin master  : pull from origin
