@@ -36,3 +36,4 @@ git config              : config you github account
 git reset --hard HEAD   : reset the commit's
 git clean -f            :Clean the changes
 git pull origin master  : pull from origin
+
