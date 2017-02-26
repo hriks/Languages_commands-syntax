@@ -1,4 +1,4 @@
-pwd                     : Shows the cureent Directory
+wd                     : Shows the cureent Directory
 cd                      : Lets you in
 cd ..                    : get down one Directory
 ctrl+D                  : Exit 
@@ -36,4 +36,6 @@ git config              : config you github account
 git reset --hard HEAD   : reset the commit's
 git clean -f            :Clean the changes
 git pull origin master  : pull from origin
-
+print
+print second
+print third
